@@ -1,7 +1,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Shirosinya.Shirosinya)
 ### Hello, I'm Shirosinya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My real name is [Fernaldi Widharsono]. Undergraduate students at the ***University of Jember** Majoring **Computer Science** in the **Information System**
+My real name is [ Fernaldi Widharsono ]. Undergraduate students at the **University of Jember** Majoring **Computer Science** in the **Information System**
 
 <div align="center">
   
